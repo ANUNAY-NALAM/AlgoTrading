@@ -9,6 +9,12 @@ $ git commit -m ""
 paste those in terminal
 $git push
 
+KiteConnect API Doc - https://kite.trade/docs/connect/v3/
+KiteConnect Python Doc - https://kite.trade/docs/pykiteconnect/v3/
+KiteConnect github page - https://github.com/zerodhatech/pykiteconnect
+KiteConnect developer login - https://developers.kite.trade/login
+KiteConnect developer forum - https://kite.trade/forum/
+
 open anaconda terminal
 
 $conda create --name algo python=3.7
