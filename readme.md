@@ -83,6 +83,7 @@ zerodha user id
 zerodha password
 zerodha key
 
+enable 2 factor authentication to get TOTP it checks present TOTP AND ENTERS AUTOMATICALLY USING pyotp
 
 
 

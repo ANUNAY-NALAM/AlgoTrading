@@ -1,3 +1,4 @@
+
 from kiteconnect import KiteConnect
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -6,7 +7,7 @@ import os
 from pyotp import TOTP
 
 
-cwd = os.chdir("D:\\OneDrive\\Udemy\\Zerodha KiteConnect API\\1_account_authorization")
+cwd = os.chdir("D:\\OneDrive\\Zerodha KiteConnect API\\1_account_authorization")
 
 def autologin():
     token_path = "api_key.txt"
